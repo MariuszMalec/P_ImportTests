@@ -1,0 +1,1 @@
+2023-08-17 16:05:09, [ERROR], Brak pliku => ./Source/B12345651.SPF
